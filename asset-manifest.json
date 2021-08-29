@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b67c8075.chunk.css",
-    "main.js": "/static/js/main.ec1819c5.chunk.js",
-    "main.js.map": "/static/js/main.ec1819c5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.81047c16.js",
-    "runtime-main.js.map": "/static/js/runtime-main.81047c16.js.map",
-    "static/js/2.49b6062a.chunk.js": "/static/js/2.49b6062a.chunk.js",
-    "static/js/2.49b6062a.chunk.js.map": "/static/js/2.49b6062a.chunk.js.map",
-    "static/js/3.0b0c62bd.chunk.js": "/static/js/3.0b0c62bd.chunk.js",
-    "static/js/3.0b0c62bd.chunk.js.map": "/static/js/3.0b0c62bd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b67c8075.chunk.css.map": "/static/css/main.b67c8075.chunk.css.map",
-    "static/js/2.49b6062a.chunk.js.LICENSE.txt": "/static/js/2.49b6062a.chunk.js.LICENSE.txt",
-    "static/media/Intro.7deae070.jpeg": "/static/media/Intro.7deae070.jpeg"
+    "main.css": "/scottadamsmith-site/static/css/main.b67c8075.chunk.css",
+    "main.js": "/scottadamsmith-site/static/js/main.ec1819c5.chunk.js",
+    "main.js.map": "/scottadamsmith-site/static/js/main.ec1819c5.chunk.js.map",
+    "runtime-main.js": "/scottadamsmith-site/static/js/runtime-main.8e296e71.js",
+    "runtime-main.js.map": "/scottadamsmith-site/static/js/runtime-main.8e296e71.js.map",
+    "static/js/2.49b6062a.chunk.js": "/scottadamsmith-site/static/js/2.49b6062a.chunk.js",
+    "static/js/2.49b6062a.chunk.js.map": "/scottadamsmith-site/static/js/2.49b6062a.chunk.js.map",
+    "static/js/3.0b0c62bd.chunk.js": "/scottadamsmith-site/static/js/3.0b0c62bd.chunk.js",
+    "static/js/3.0b0c62bd.chunk.js.map": "/scottadamsmith-site/static/js/3.0b0c62bd.chunk.js.map",
+    "index.html": "/scottadamsmith-site/index.html",
+    "static/css/main.b67c8075.chunk.css.map": "/scottadamsmith-site/static/css/main.b67c8075.chunk.css.map",
+    "static/js/2.49b6062a.chunk.js.LICENSE.txt": "/scottadamsmith-site/static/js/2.49b6062a.chunk.js.LICENSE.txt",
+    "static/media/Intro.7deae070.jpeg": "/scottadamsmith-site/static/media/Intro.7deae070.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81047c16.js",
+    "static/js/runtime-main.8e296e71.js",
     "static/js/2.49b6062a.chunk.js",
     "static/css/main.b67c8075.chunk.css",
     "static/js/main.ec1819c5.chunk.js"
