@@ -1,14 +1,14 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
+// import React from "react";
+// import ReactDOM from "react-dom";
+// import {
+//   BrowserRouter as Router,
+//   Switch,
+//   Route,
+//   Link
+// } from "react-router-dom";
 
 import Intro from './Intro';
-import Home from './Home';
+// import Home from './Home';
 
 export default function App() {
   return (
