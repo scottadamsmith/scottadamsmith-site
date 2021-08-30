@@ -8,7 +8,6 @@ import { useEffect } from 'react';
 
 export default function Github() {
   useEffect(() => {
-    console.log(styles);
     GitHubCalendar(".github-container-component", "scottadamsmith", { 
       responsive: true,
       tooltips: true,
