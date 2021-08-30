@@ -1,1 +1,6 @@
-@import "~bulmaswatch/darkly/bulmaswatch.scss";
+@import "~bulmaswatch/darkly/_variables";
+
+$family-sans-serif: "Encode Sans", sans-serif;
+
+@import "bulma";
+@import "~bulmaswatch/darkly/_overrides";
