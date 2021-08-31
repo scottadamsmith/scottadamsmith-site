@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/scottadamsmith-site/static/css/main.c41ec18b.chunk.css",
-    "main.js": "/scottadamsmith-site/static/js/main.f369a4a9.chunk.js",
-    "main.js.map": "/scottadamsmith-site/static/js/main.f369a4a9.chunk.js.map",
-    "runtime-main.js": "/scottadamsmith-site/static/js/runtime-main.352d5a9a.js",
-    "runtime-main.js.map": "/scottadamsmith-site/static/js/runtime-main.352d5a9a.js.map",
+    "main.css": "/scottadamsmith-site/static/css/main.18b5582b.chunk.css",
+    "main.js": "/scottadamsmith-site/static/js/main.37db60f8.chunk.js",
+    "main.js.map": "/scottadamsmith-site/static/js/main.37db60f8.chunk.js.map",
+    "runtime-main.js": "/scottadamsmith-site/static/js/runtime-main.f83d9b9c.js",
+    "runtime-main.js.map": "/scottadamsmith-site/static/js/runtime-main.f83d9b9c.js.map",
     "static/css/2.a84463ff.chunk.css": "/scottadamsmith-site/static/css/2.a84463ff.chunk.css",
-    "static/js/2.a4997e62.chunk.js": "/scottadamsmith-site/static/js/2.a4997e62.chunk.js",
-    "static/js/2.a4997e62.chunk.js.map": "/scottadamsmith-site/static/js/2.a4997e62.chunk.js.map",
-    "static/js/3.7db06568.chunk.js": "/scottadamsmith-site/static/js/3.7db06568.chunk.js",
-    "static/js/3.7db06568.chunk.js.map": "/scottadamsmith-site/static/js/3.7db06568.chunk.js.map",
+    "static/js/2.adcb4a0e.chunk.js": "/scottadamsmith-site/static/js/2.adcb4a0e.chunk.js",
+    "static/js/2.adcb4a0e.chunk.js.map": "/scottadamsmith-site/static/js/2.adcb4a0e.chunk.js.map",
+    "static/js/3.2374ddaa.chunk.js": "/scottadamsmith-site/static/js/3.2374ddaa.chunk.js",
+    "static/js/3.2374ddaa.chunk.js.map": "/scottadamsmith-site/static/js/3.2374ddaa.chunk.js.map",
     "index.html": "/scottadamsmith-site/index.html",
     "static/css/2.a84463ff.chunk.css.map": "/scottadamsmith-site/static/css/2.a84463ff.chunk.css.map",
-    "static/css/main.c41ec18b.chunk.css.map": "/scottadamsmith-site/static/css/main.c41ec18b.chunk.css.map",
-    "static/js/2.a4997e62.chunk.js.LICENSE.txt": "/scottadamsmith-site/static/js/2.a4997e62.chunk.js.LICENSE.txt",
-    "static/media/Intro.7deae070.jpeg": "/scottadamsmith-site/static/media/Intro.7deae070.jpeg"
+    "static/css/main.18b5582b.chunk.css.map": "/scottadamsmith-site/static/css/main.18b5582b.chunk.css.map",
+    "static/js/2.adcb4a0e.chunk.js.LICENSE.txt": "/scottadamsmith-site/static/js/2.adcb4a0e.chunk.js.LICENSE.txt",
+    "static/media/MainImage.7deae070.jpeg": "/scottadamsmith-site/static/media/MainImage.7deae070.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.352d5a9a.js",
+    "static/js/runtime-main.f83d9b9c.js",
     "static/css/2.a84463ff.chunk.css",
-    "static/js/2.a4997e62.chunk.js",
-    "static/css/main.c41ec18b.chunk.css",
-    "static/js/main.f369a4a9.chunk.js"
+    "static/js/2.adcb4a0e.chunk.js",
+    "static/css/main.18b5582b.chunk.css",
+    "static/js/main.37db60f8.chunk.js"
   ]
 }
