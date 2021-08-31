@@ -25,7 +25,11 @@ export default function App() {
     <div>
       <nav className="navbar is-transparent is-fixed-top" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
-        <a role="button" className={`navbar-burger ${activeMenu ? 'is-active' : ''}`} aria-label="menu" aria-expanded="false" data-target="navbarcontent" onClick={() => setActiveMenu(!activeMenu)}>
+        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+        <a href="#" role="button" className={`navbar-burger ${activeMenu ? 'is-active' : ''}`} aria-label="menu" aria-expanded="false" data-target="navbarcontent" onClick={(e) => {
+          e.preventDefault();
+          setActiveMenu(!activeMenu)
+        }}>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
